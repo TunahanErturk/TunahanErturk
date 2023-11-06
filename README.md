@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Tunahan Erturk</h1>
 <h3 align="center">A passionate data science developer from Turkiye</h3>
 
-- 🔭 I’m currently working on **java**
+- 🔭 I’m currently working on **java,python** 
 
-- 🌱 I’m currently learning **Java, html ,css etc.**
+- 🌱 I’m currently learning **Java, html ,css,sql,python etc.**
 
 - 📫 How to reach me **tunahanturkererturk@gmail.com**
 
