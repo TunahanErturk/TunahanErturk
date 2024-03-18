@@ -1,4 +1,4 @@
-[![MasterHead](https://uwo.ca/sci/datascience/img/Placeholders/Data%20Science%20Slide.jpg)
+![MasterHead](https://uwo.ca/sci/datascience/img/Placeholders/Data%20Science%20Slide.jpg)
 
 <h1 align="center">Hi 👋, I'm Tunahan Erturk</h1>
 <h3 align="center">A passionate data science developer from Turkiye</h3>
