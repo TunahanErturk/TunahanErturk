@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tunahanturkererturk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tunahanturkererturk/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https:https://www.linkedin.com/in/tunahanturkererturk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tunahanturkererturk/" height="30" width="40" /></a>
 <a href="https://instagram.com/tuna.ertrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tuna.ertrk" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/@tunahanturkererturk9129?si=q5jjjh9dogxzxshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@tunahanturkererturk9129?si=q5jjjh9dogxzxshu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tunahanturkerer1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tunahanturkerer1" height="30" width="40" /></a>
